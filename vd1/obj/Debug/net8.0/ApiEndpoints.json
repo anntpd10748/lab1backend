@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "vd1.Controllers.lab1Controller",
+    "Method": "Get",
+    "RelativePath": "api/lab1",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
